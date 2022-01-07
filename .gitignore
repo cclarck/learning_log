@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my local env
+ll_env/
+__pycache__/
+*.sqlite3
+.env
